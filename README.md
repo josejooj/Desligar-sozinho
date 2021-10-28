@@ -1,6 +1,6 @@
-### 🤖 Desligar sozinho 🤖
-## 🤔 O que é?
-Bom, o nome é auto-explicativo, é uma aplicação para facilitar a programação de desligamento automático, ao invés de ter que procurar quais flags usar no comando, converter tempo para segundos, pode só abrir o programa e em 10 segundos tudo já está feito
+# 👨‍💻 Desligar sozinho 🤖
+### 🤔 O que é?
+Bom, o nome é auto-explicativo, é uma aplicação para facilitar a programação de desligamento automático do computador, ao invés de ter que procurar quais flags usar no comando, converter tempo para segundos, pode só abrir o programa e em 10 segundos tudo já está feito
 > <img src='https://cdn.discordapp.com/attachments/782941447476215839/903391909446307900/unknown.png'></img>
 > 📸 Imagem da tela principal do programa
 ## Como usar
@@ -23,3 +23,5 @@ Caso queira abortar o desligamento programado, basta abrir o programa, digitar `
 - Compilado com: `GNU C++ Compiler v6.3.0-1`
 - Duração de desenvolvimento: `1 hora e 30 minutos`
 - Desenvolvido com o programa: `Visual Studio Code`
+- Compatibilidade com Windows: `Sim`
+- Compatibilidade com Linux: `Não`
