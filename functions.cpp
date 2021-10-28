@@ -3,16 +3,24 @@
 
 using std::cout;
 using std::string;
-
-void clear()
-{
-    system("CLS");
-    cout << "\n\n";
-}
+using std::endl;
 
 void show(const char str[])
 {
     std::cout << "      " << str << endl;
+}
+
+void clear()
+{
+    system("CLS");
+    cout << endl;
+    show("________________________________________________________");
+    show("|                                                      |");
+    show("|                      FEITO POR                       |");
+    show("|                     cleiton#2040                     |");
+    show("|            https://github.com/cleiton2040            |");
+    show("|______________________________________________________|");
+    cout << endl;
 }
 
 int ask(const char str[])
